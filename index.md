@@ -9,17 +9,23 @@ linkcolor: 'blue'
 
 This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete.
 
-1. [Main Course](https://diandramrivera.github.io/xsability/MathRemediation.html): Here, we'll not only learn how to make math accessible, but how to make *mathematical documents* accessible. No, it's not just converting file formats. (~3-4 hours)
+1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here.
 
-2. [Practice File](https://diandramrivera.github.io/xsability/mFigPractice.pdf): Remediate this PDF using what you learned above. If you are new, this should take about 2 hours, and you absolutely need to reference section 5 in the main course.
+   a. Download [this example](https://diandramrivera.github.io/xsability/Chavespg28.pdf) and follow along.
 
-3. The above has an answer key you can test with NVDA:
+   b. You will need to submit a remediated copy of the above to your superior in order to start.
+
+2. [Main Course](https://diandramrivera.github.io/xsability/MathRemediation.html): Here, we'll not only learn how to make math accessible, but how to make *mathematical documents* accessible. No, it's not just converting file formats. (~3-4 hours)
+
+3. [Practice File](https://diandramrivera.github.io/xsability/mFigPractice.pdf): Remediate this PDF using what you learned above. If you are new, this should take about 2 hours, and you absolutely need to reference section 5 in the main course.
+
+4. The above has an answer key you can test with NVDA:
 
    a. [Remediated Practice File](https://diandramrivera.github.io/xsability/mFigPracticeRemediated.html).
 
    b. [Markdown Markup](https://diandramrivera.github.io/xsability/mFigPracticeMarkup.html) (copy and paste this into VS Code).
 
-4. This workflow can also produce HTML presentations:
+5. This workflow can also produce HTML presentations:
 
    a. [Accessible Presentation Slides](https://diandramrivera.github.io/xsability/htmlPresentation.html)
 
