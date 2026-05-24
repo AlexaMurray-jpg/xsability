@@ -7,7 +7,7 @@ fontsize: '14pt'
 linkcolor: 'blue'
 ---
 
-This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. Please [read the short forward below](@sec:readme) before you get started.
+This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. Please read the short forward below (@sec:readme) before you get started.
 
 1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here (~30-60 minutes)
 
@@ -41,7 +41,7 @@ When those rules are in place, it is as if the math professor is suddenly sober.
 
 Now you understand what it is like to read accessible math with assistive technology. Accessible math is called “MathML” or “MathJax”. Neither are a file format or program – they are simply a way of writing math that assistive technology can understand. The only way to remediate mathematical documents to be conformant with [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) accessibility standards (e.g. to have MathML or MathJax) is to re-author inaccessible documents to include MathML or Mathjax, along with providing sufficient alt text, captions, descriptive tools like footnotes leading to tables, and the navigation features needed to maneuver around these elements so that users of assistive technology aren’t punished for needing to use it.
 
-The easiest way to do this, to our knowledge, is to use Mathpix, Markdown, Pandoc, and VS Code to reauthor inaccessible PDF/word files into accessible HTML files. We use Mathpix → Markdown → Pandoc (and Pandoc-crossref) → HTML to automatically transcribe TeX math markup into MathML/MathJax to **maximize accessibility** of what is written while **minimizing author effort** required to organize it in an understandable way (e.g. completely describing figures in a navigable manner).
+The easiest way to do this, to our knowledge, is to use Mathpix, Markdown, Pandoc, and VS Code to reauthor inaccessible PDF/Word formats into accessible HTML documents. We use Mathpix → Markdown → Pandoc (and Pandoc-crossref) → HTML to automatically transcribe TeX math markup into MathML/MathJax to **maximize accessibility** of what is written while **minimizing author effort** required to organize it in an understandable way (e.g. completely describing figures in a navigable manner).
 
 ## You Will Become a Better Author
 
