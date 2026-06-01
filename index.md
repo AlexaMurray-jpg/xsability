@@ -10,11 +10,11 @@ linkReferences: true
 
 This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. [Please  @sec:readme] before you get started.
 
-1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here (~30-60 minutes)
+1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the introduction below, get started here (~30-60 minutes)
 
    a. Download [this example](https://diandramrivera.github.io/xsability/ChavesPg28.pdf) and follow along.
 
-   b. You will need to submit a remediated copy of the above to your superior to begin remediation tasks.
+   b. You will need to submit a remediated copy of the above to your superior to begin remediation tasks. Don't worry! We'll break it down as we go! C:
 
 2. [Main Course](https://diandramrivera.github.io/xsability/MathRemediation.html): Here, we'll learn how to make mathematical documents *truly* accessible. No, it's not just converting file formats. (~3-4 hours)
 
@@ -56,4 +56,4 @@ This isn't just about accessibility. Completion of this course **will** make you
 
 These tools will make your authoring life *easy*. The reader has much to gain from finishing this course.
 
-[^thankyou]: With special acknowledgement to Lexi Murray for insightful discussions and revisions, Cynthia Jones for incredibly helpful error finding, and an exceptionally warm thank you to [Nikolay Yakimov](https://github.com/lierdakil) for addressing certain issues with pandoc-crossref.
+[^thankyou]: With special acknowledgement to Lexi Murray for insightful discussions and revisions, Cynthia Jones for incredibly helpful error finding, EK Im for the feedback and instruction regarding MathPix Snips, and an exceptionally warm thank you to [Nikolay Yakimov](https://github.com/lierdakil) for addressing certain issues with pandoc-crossref.
