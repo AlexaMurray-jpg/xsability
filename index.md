@@ -32,6 +32,8 @@ This learning module will teach accessibility professionals how to use MathPix, 
 
    b. [Markdown Markup](https://diandramrivera.github.io/xsability/htmlPresentationMarkup.html)
 
+   However, navigability of these slides is highly dependent on browser and screen reader settings, and it's often best to treat presentations as any other document and label each slide with `# Slide Title {#sec:theslidetitle}` so Pandoc can take care of numbering (don't get stressed reading that - we'll learn what this jargon means in the [main course](https://diandramrivera.github.io/xsability/MathRemediation.html)).
+
 # Introduction {#sec:readme label="read the short introduction below"}
 
 You arrive to math class to find a substitute professor that has had too much coffee. They start rambling and scribbling at lightning speed, and most of what they are doing is fervorous nonsense. You raise your hand to ask a question, and in response they immediately erase everything they just wrote, and announce that they must start all over from the beginning, “to \**twitch*\* **make** you understand!!!”
