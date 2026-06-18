@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility Remediation of Mathematical Documents'
 subtitle: '**Using Mathpix, Markdown and Pandoc**'
-author: 'Diandra M Rivera[^thankyou]'
+author: 'Diandra Rivera & Lexi Murray[^thankyou]'
 width: '50%'
 fontsize: '14pt'
 linkcolor: 'blue'
@@ -58,4 +58,4 @@ This isn't just about accessibility. Completion of this course **will** make you
 
 These tools will make your authoring life *easy*. The reader has much to gain from finishing this course.
 
-[^thankyou]: With special acknowledgement to Lexi Murray for insightful discussions and revisions, Cynthia Jones for incredibly helpful error finding, EK Im for the feedback and instruction regarding MathPix Snips, and an exceptionally warm thank you to [Nikolay Yakimov](https://github.com/lierdakil) for addressing certain issues with pandoc-crossref.
+[^thankyou]: With special acknowledgement to Cynthia Jones for incredibly helpful error finding, EK Im for the feedback and instruction regarding MathPix Snips, and an exceptionally warm thank you to [Nikolay Yakimov](https://github.com/lierdakil) for addressing certain issues with pandoc-crossref.
